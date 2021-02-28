@@ -1,7 +1,7 @@
 <b>My Github Stats</b>:
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&theme=tokyonight&hide_rank=true&line_height=20">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sophearahsp&theme=tokyonight&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&hide_rank=true&line_height=20&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sophearahsp&layout=compact">
 </p>
 
 <!--

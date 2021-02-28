@@ -5,7 +5,7 @@ currently...
 <br>
 🎮 developing a cooperative space adventure for **Ubisoft Game Lab Compeititon 2021**
 <br>
-🎨 designing a **mural touring experience for Montreal** with [Hack4Impact McGill](https://hack4impact-mcgill.now.sh/).
+🎨 designing a **montreal touring experience** with [Hack4Impact McGill](https://hack4impact-mcgill.now.sh/).
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&hide_rank=true&line_height=20&count_private=true&show_icons=true">

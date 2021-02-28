@@ -1,8 +1,8 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophearahsp)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical&hide_rank=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophearahsp)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+<b>My Github Stats</b>:
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&theme=tokyonight&hide_rank=true&line_height=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sophearahsp&theme=tokyonight&layout=compact">
+</p>
 
 <!--
 **sophearahsp/sophearahsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### this is my cat
+![yawn](https://user-images.githubusercontent.com/28612003/109411639-68f67f80-7958-11eb-84f9-ff6545d76a6c.JPG)

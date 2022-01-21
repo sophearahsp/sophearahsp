@@ -1,11 +1,9 @@
 ## hello hello hellos!
 currently...
 <br>
-📚 studying **Computer Science** @ McGill University
+📚 studying @ **McGill**
 <br>
-🎮 developing a cooperative space adventure for **Ubisoft Game Lab Compeititon 2021**
-<br>
-🎨 designing a **montreal touring experience** with [Hack4Impact McGill](https://hack4impact-mcgill.now.sh/).
+🚀 incoming @ **Tableau**
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&hide_rank=true&line_height=20&count_private=true&show_icons=true">

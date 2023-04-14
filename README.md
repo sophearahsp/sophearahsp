@@ -1,14 +1,10 @@
 ## hello hello hellos!
+
+<!--
 currently...
 <br>
 📚 studying @ **McGill**
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sophearahsp&hide_rank=true&line_height=20&count_private=true&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sophearahsp&layout=compact">
-</p>
-
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
